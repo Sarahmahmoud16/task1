@@ -1,0 +1,14 @@
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\bin\Debug\net8.0\Day02Solutions.exe
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\bin\Debug\net8.0\Day02Solutions.deps.json
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\bin\Debug\net8.0\Day02Solutions.runtimeconfig.json
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\bin\Debug\net8.0\Day02Solutions.dll
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\bin\Debug\net8.0\Day02Solutions.pdb
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.AssemblyInfoInputs.cache
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.AssemblyInfo.cs
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.dll
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\refint\Day02Solutions.dll
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.pdb
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\Day02Solutions.genruntimeconfig.cache
+D:\DEPI\C#\TaskSolutions\Day02C#_Sara_Mahmoud_omar_ONL2_S5\Day02Solutions\Day02Solutions\obj\Debug\net8.0\ref\Day02Solutions.dll

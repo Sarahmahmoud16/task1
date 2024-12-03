@@ -1,0 +1,14 @@
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\bin\Debug\net8.0\Day04_Solution.exe
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\bin\Debug\net8.0\Day04_Solution.deps.json
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\bin\Debug\net8.0\Day04_Solution.runtimeconfig.json
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\bin\Debug\net8.0\Day04_Solution.dll
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\bin\Debug\net8.0\Day04_Solution.pdb
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.AssemblyInfoInputs.cache
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.AssemblyInfo.cs
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.csproj.CoreCompileInputs.cache
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.dll
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\refint\Day04_Solution.dll
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.pdb
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\Day04_Solution.genruntimeconfig.cache
+C:\Users\sara mahmoud\source\repos\Day04_Solution\Day04_Solution\obj\Debug\net8.0\ref\Day04_Solution.dll
